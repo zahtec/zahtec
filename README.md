@@ -1,15 +1,19 @@
 # It's me, Zahtec 🙂
 
-### What I'm learning
+### 🧠 What I'm learning
+------
 ```
 JavaScript
 TypeScript
 HTML5
 CSS3
 ```
-### What I want to learn
+### ➕ What I want to learn
+------
 ```
 Rust
 Kotlin
 ```
 *give me suggestions* 😉
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahtec)](https://github.com/anuraghazra/github-readme-stats)
