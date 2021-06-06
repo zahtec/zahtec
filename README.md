@@ -8,7 +8,7 @@ TypeScript
 HTML5
 CSS3
 ```
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;<img height="20" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"><img height="20" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;<img height="20" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ### ➕ What I'm learning/wanting to learn
