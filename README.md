@@ -1,4 +1,4 @@
-# It's me, **Zahtec**
+# It's me, Zahtec 🙂
 
 ### What I'm learning
 ```
