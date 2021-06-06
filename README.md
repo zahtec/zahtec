@@ -1,6 +1,6 @@
 # It's me, Zahtec 🙂
 
-### 🧠 What I'm learning
+### 🧠 What I know
 ------
 ```
 JavaScript
@@ -8,7 +8,7 @@ TypeScript
 HTML5
 CSS3
 ```
-### ➕ What I want to learn
+### ➕ What I'm learning/wanting to learn
 ------
 ```
 Rust
