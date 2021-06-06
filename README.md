@@ -19,8 +19,11 @@ CSS3
 Rust
 Kotlin
 ```
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
 *give me suggestions* 😉
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahtec&show_icons=true&theme=radical&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-*[^ What's This? ^](https://github.com/anuraghazra/github-readme-stats)*
+*[What's This?](https://github.com/anuraghazra/github-readme-stats)*
