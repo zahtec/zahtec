@@ -8,8 +8,7 @@ TypeScript
 HTML5
 CSS3
 ```
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;<img height="20" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">&nbsp;<img height="20" src="https://rustacean.net/assets/rustacean-orig-noshadow.svg">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;<img height="20" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">&nbsp;<img height="20" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">&nbsp;<img height="20" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png">
 
 ### ➕ What I'm learning/wanting to learn
 ------
