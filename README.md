@@ -16,8 +16,7 @@ CSS3
 Rust
 Kotlin
 ```
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<img height="20" src="https://rustacean.net/assets/rustacean-orig-noshadow.svg">&nbsp;<img height="20" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png">
 
 *give me suggestions* 😉
 
