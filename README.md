@@ -1,6 +1,6 @@
 # It's me, Zahtec 🙂
 I'm a 14 year old programmer/deveoper willing to learn anything!  
-❌ Spoonfeeding
+❌ Spoonfeeding  
 ✅ Actual Learning
 
 ## 🧠 What I know
