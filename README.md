@@ -18,10 +18,8 @@ C++
 Shell
 Kotlin
 ```
-<img height="20" src="https://rustacean.net/assets/rustacean-orig-noshadow.svg">&nbsp;<img height="20" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">&nbsp;<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;<img height="20" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg">&nbsp;<img height="20" src="https://camo.githubusercontent.com/6f90f54c1c63ce72632095ace13da857997a6944a61ca664c8cf27b5d92769b0/68747470733a2f2f736474696d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31302f3132303070782d4b6f746c696e2d6c6f676f2e7376675f2e706e67">
 
 *give me suggestions* 😉
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahtec&show_icons=true&theme=radical&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-*[What's This?](https://github.com/anuraghazra/github-readme-stats)*
