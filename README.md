@@ -7,8 +7,8 @@ I'm a 14 year old programmer/developer willing to learn anything!
 ```
 JavaScript
 TypeScript
-HTML5
-CSS3
+HTML5 (some)
+CSS3 (some)
 ```
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;<img height="20" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">&nbsp;<img height="20" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">&nbsp;<img height="20" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png">
 
