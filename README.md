@@ -13,7 +13,9 @@ CSS3
 ### ➕ What I'm learning/wanting to learn
 ------
 ```
-Rust
+C
+C++
+Shell
 Kotlin
 ```
 <img height="20" src="https://rustacean.net/assets/rustacean-orig-noshadow.svg">&nbsp;<img height="20" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png">
