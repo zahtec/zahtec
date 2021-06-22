@@ -22,7 +22,7 @@ C++
 Swift
 Shell
 Kotlin
-V (🙄 @tycrek)
+V
 ```
 
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;<img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg">&nbsp;<img height="20" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg">&nbsp;
