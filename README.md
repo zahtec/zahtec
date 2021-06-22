@@ -13,9 +13,7 @@ CSS3 (some)
 HTML5 (some)
 ```
 
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">
-<img height="20" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;<img height="20" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png">&nbsp;<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
 
 ## ➕ What I'm learning/wanting to learn
 
