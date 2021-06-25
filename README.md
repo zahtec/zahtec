@@ -28,4 +28,5 @@ HTML
 
 *give me suggestions* 😉
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahtec&show_icons=true&theme=radical&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahtec&show_icons=true&theme=radical&hide_border=true&border_radius=15)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahtec&show_icons=true&theme=radical&hide_border=true&border_radius=15)
+
