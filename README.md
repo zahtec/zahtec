@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="-webkit-background-clip:text;background-clip:text;color:transparent;background:linear-gradient(140deg,rgb(211,65,247),rgb(115,34,145)">Toryn</span></h1>
+<h1 align="center">👋 Hi there, I'm Toryn</h1>
 
 also known as Zahtec. I'm a 15 year old developer trying to get a job in the industry. I'm currently interested in website design and low-level programming languages such as [Rust](https://www.rust-lang.org).
 
@@ -8,22 +8,19 @@ also known as Zahtec. I'm a 15 year old developer trying to get a job in the ind
 
 <h1 align="center" style="margin-top:3rem">🏆 Projects</h1>
 
-<ul style="padding: 0 5rem;">
+-   🚀 My portfolio <a href="https://www.zahtec.com" target="_blank">zahtec.com</a> which showcases all my skills and is my best website yet. It uses Node.js, Next.js, React, and Tailwind.
 
-<li>🚀 My portfolio <a href="https://www.zahtec.com" target="_blank">zahtec.com</a> which showcases all my skills and is my best website yet. It uses Node.js, Next.js, React, and Tailwind.</li>
+-   ☠️ My CV project [DetoxifAI](https://www.github.com/zahtec/SC22-BatchB-Flaming-Fuelers-DetoxifAI) which identifies the particular species of a Snake or Mushroom and deems it venomous/poisonous. Made at [Stanford AI Camp](https://www.ai-camp.org)
 
-<li>☠️ My CV project <a href="https://www.github.com/zahtec/SC22-BatchB-Flaming-Fuelers-DetoxifAI" target="_blank">DetoxifAI</a> which identifies the particular species of a Snake or Mushroom and deems it venomous/poisonous. Made at <a href="https://www.ai-camp.org" target="_blank">Stanford AI Camp</a></li>
+-   🔧 My Python starter [TelloDji](https://www.github.com/zahtec/tellodji) which is a Python library for interfacing with the DJI Tello SDK. It incorporates [ffmpeg](https://www.ffmpeg.org/ffmpeg), Multithreading, Socket networking, and also very good documentation.
 
-<li>🔧 My Python starter <a href="https://www.github.com/zahtec/tellodji" target="_blank">TelloDji</a> which is a Python library for interfacing with the DJI Tello SDK. It incorporates <a href="https://www.ffmpeg.org/ffmpeg" target="_blank">ffmpeg</a>, Multithreading, Socket networking, and also very good documentation.</li>
+-   🚨 My [Express.js](https://www.expressjs.com) middleware project that redirects IE users to a page that tells them to switch to a modern browser before continuing.
 
-<li>🚨 My <a href="https://www.expressjs.com" target="_blank">Express.js</a> middleware project that redirects IE users to a page that tells them to switch to a modern browser before continuing.</li>
-<li>:trollface: My trolling project <a href="https://www.github.com/zahtec/trollpy" target="_blank">Trollpy</a> which overrides Python builtins or common functions found in popular libraries to troll developers.
-
-</ul>
+-   :trollface: My trolling project [Trollpy](https://www.github.com/zahtec/trollpy) which overrides Python builtins or common functions found in popular libraries to troll developers.
 
 <h1 align="center" style="margin-top:3rem">⚡️ Skills</h1>
 
-<div style="display:flex;justify-content:center;gap:1rem;">
+<p align="center">
     <a href="https://www.zahtec.com/skills?f=python">
       <img src="https://www.skillicons.dev/icons?i=py" />
     </a>
@@ -48,9 +45,10 @@ also known as Zahtec. I'm a 15 year old developer trying to get a job in the ind
     <a href="https://www.zahtec.com/skills?f=js">
       <img src="https://www.skillicons.dev/icons?i=js" />
     </a>
-</div>
 
-<p align="center" style="margin-top:1.5rem">Click on any of these skills to go to my portfolio and find their respective projects. Each of them has a link with a filter parameter.</p>
+Click on any of these skills to go to my portfolio and find their respective projects. Each of them has a link with a filter parameter.
+
+</p>
 
 <h1 align="center" style="margin-top:3rem">📫 Contact Me</h1>
 
