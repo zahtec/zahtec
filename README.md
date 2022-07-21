@@ -21,28 +21,28 @@ also known as Zahtec. I'm a 15 year old developer trying to get a job in the ind
 <h1 align="center" style="margin-top:3rem">⚡️ Skills</h1>
 
 <p align="center">
-    <a href="https://www.zahtec.com/projects?f=python" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=python">
       <img src="https://www.skillicons.dev/icons?i=py" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=node" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=node">
       <img src="https://www.skillicons.dev/icons?i=nodejs" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=nextjs" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=nextjs">
       <img src="https://www.skillicons.dev/icons?i=next" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=react" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=react">
       <img src="https://www.skillicons.dev/icons?i=react" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=tailwind" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=tailwind">
       <img src="https://www.skillicons.dev/icons?i=tailwind" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=html" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=html">
       <img src="https://www.skillicons.dev/icons?i=html" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=css" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=css">
       <img src="https://www.skillicons.dev/icons?i=css" />
     </a>
-    <a href="https://www.zahtec.com/projects?f=js" target="_blank">
+    <a href="https://www.zahtec.com/projects?f=js">
       <img src="https://www.skillicons.dev/icons?i=js" />
     </a>
 
