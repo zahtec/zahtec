@@ -21,28 +21,28 @@ also known as Zahtec. I'm a 15 year old developer trying to get a job in the ind
 <h1 align="center" style="margin-top:3rem">⚡️ Skills</h1>
 
 <p align="center">
-    <a href="https://www.zahtec.com/skills?f=python">
+    <a href="https://www.zahtec.com/projects?f=python" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=py" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=node">
+    <a href="https://www.zahtec.com/projects?f=node" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=nodejs" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=nextjs">
+    <a href="https://www.zahtec.com/projects?f=nextjs" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=next" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=react">
+    <a href="https://www.zahtec.com/projects?f=react" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=react" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=tailwind">
+    <a href="https://www.zahtec.com/projects?f=tailwind" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=tailwind" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=html">
+    <a href="https://www.zahtec.com/projects?f=html" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=html" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=css">
+    <a href="https://www.zahtec.com/projects?f=css" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=css" />
     </a>
-    <a href="https://www.zahtec.com/skills?f=js">
+    <a href="https://www.zahtec.com/projects?f=js" target="_blank">
       <img src="https://www.skillicons.dev/icons?i=js" />
     </a>
 
@@ -52,7 +52,7 @@ Click on any of these skills to go to my portfolio and find their respective pro
 
 <h1 align="center" style="margin-top:3rem">📫 Contact Me</h1>
 
-To easily contact me I suggest [adding me on discord](https://www.discord.com/users/340324858405847042). Zahtec`#8510`
+To easily contact me I suggest [adding me on discord](https://www.discord.com/users/340324858405847042). `Zahtec#8510`
 
 Or, you can [email me](mailto:32808999%2Bzahtec@users.noreply.github.com) at: `32808999+zahtec@users.noreply.github.com`
 
