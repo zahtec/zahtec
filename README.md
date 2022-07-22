@@ -54,7 +54,7 @@ Click on any of these skills to go to my portfolio and find their respective pro
 
 To easily contact me I suggest [adding me on discord](https://www.discord.com/users/340324858405847042). `Zahtec#8510`
 
-Or, you can [email me](mailto:32808999%2Bzahtec@users.noreply.github.com) at: `32808999+zahtec@users.noreply.github.com`
+Or, you can [email me](mailto:top10webgo@gmail.com) at: `top10webgo@gmail.com`
 
 <p align="center" style="margin-top:3rem">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahtec&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0e1116" />
