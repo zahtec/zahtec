@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://badges.zahtec.com/views/zahtec" />
-  <img src="https://badges.zahtec.com/discord/340324858405847042.svg">
+  <img src="https://badges.zahtec.com/discord/340324858405847042">
 </div>
 
 <br />
